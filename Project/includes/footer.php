@@ -31,9 +31,7 @@
 				</div><!-- column -->
 
 			</div><!-- footer -->
-
-			<small>&copy;<?php echo date('Y'); ?> Eugen Bejenaru <?php echo $companyName; ?></small>
-
+			
 		</div><!-- content -->
 
 	</div><!-- wrapper -->
